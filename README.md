@@ -1,7 +1,3 @@
-Sure! Here's a sample `README.md` script for your repository:
-
----
-
 # 🛠️ nRF52840 & DECA1000 SPI Communication Project 🚀
 
 Welcome to the **nRF52840 & DECA1000 SPI Communication Project**! This repository showcases how to establish SPI communication between the nRF52840 microcontroller and the DECA1000 module. In this example, we demonstrate the basics by blinking the built-in LEDs on the Qorvo module.
