@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "nrf_gpio.h": "c",
+    "nrfx_spim.h": "c",
+    "nrf_spim.h": "c"
+  }
+}
